@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Выберите билет</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f0f0f0; text-align: center; }
+    h1 { margin-bottom: 30px; }
+    a {
+      display: inline-block;
+      margin: 10px 20px;
+      padding: 15px 25px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+      transition: background-color 0.3s;
+    }
+    a:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <h1>Выберите билет</h1>
+  <a href="BiletiHimia11.html">Билет 1</a>
+  <a href="ticket2.html">Билет 2</a>
+  <a href="ticket3.html">Билет 3</a>
+  <!-- Добавляйте ссылки на новые билеты здесь -->
+</body>
+</html>
